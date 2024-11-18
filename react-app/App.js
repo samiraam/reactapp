@@ -6,6 +6,7 @@ import ButtonScreen from './ButtonScreen';
 import MenuScreen from './Menu/MenuScreen';
 import StudentsScreen from './StudentsScreen';
 import BoxScreen from './Menu/BoxScreen';
+import ProductScreen from '../productScreen';
 
 
 export default function App() {
@@ -19,6 +20,7 @@ export default function App() {
       <MenuScreen></MenuScreen> */}
       <StudentsScreen></StudentsScreen>
       <BoxScreen></BoxScreen>
+      <ProductScreen></ProductScreen>
 
 
     </View>
