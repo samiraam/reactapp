@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "name":"Iphone 16 pro max",
+        "category": "1300",
+        "stock": "yes",
+        "image": "https://mac-center.com.pr/cdn/shop/files/iPhone_16_Pro_Max_Desert_Titanium_PDP_Image_Position_1__en-US_bf24ca74-a053-42d3-80e2-3edc40e85c1e.jpg?v=1726226953",
+        "description": "lorem ipsum test "
+    },
+    {
+        "id": 2,
+        "name":"Samsung Note 24",
+        "category": "1100",
+        "stock": "yes",
+        "image": "https://image-us.samsung.com/us/smartphones/galaxy-s24/all-gallery/01_E3_TitaniumBlack_Lockup_1600x1200.jpg",
+        "description": "lorem ipsum test "
+    },
+    {
+        "id": 3,
+        "name":"Iphone 13 pro",
+        "category": "659",
+        "stock": "yes",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-green-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072986997",
+        "description": "lorem ipsum test "
+    }
+    
+
+]
